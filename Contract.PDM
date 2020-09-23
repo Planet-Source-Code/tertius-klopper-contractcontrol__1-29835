@@ -1,0 +1,191 @@
+[Root]
+Most Recent Package=Contract Control
+
+
+[Package|Contract Control|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\My Documents\Visual Studio Projects\Contract Control\Setup
+
+[Package|Contract Control|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+Lotus=No
+Exchange=No
+Text=No
+Paradox=No
+Excel=Yes
+Xbase=No
+
+[Package|Contract Control|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Contract Control|Files Found]
+
+[Package|Contract Control|Files Released]
+
+[Package|Contract Control|Missing Dependency Information]
+C:\Program Files\Outlook Express\msoe.dll=
+C:\WINDOWS\SYSTEM\NSFILE.OCX=
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=
+C:\WINDOWS\SYSTEM\FM20.DLL=
+C:\WINDOWS\SYSTEM\MSADO20.TLB=
+
+[Package|Contract Control|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM\COMCT332.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+
+[Package|Contract Control|Files Added]
+c:\my documents\visual studio projects\contract control\readme.txt=
+c:\my documents\visual studio projects\contract control\contract.mdb=
+
+[Package|Contract Control|Files Removed]
+
+[Package|Contract Control|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJET35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\WINDOWS\SYSTEM\MSBIND.DLL=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=Yes
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=Yes
+C:\My Documents\Visual Studio Projects\Contract Control\Help\ContractControl.hlp=Yes
+C:\WINDOWS\SYSTEM\MSEXCL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\My Documents\Visual Studio Projects\Contract Control\Contract.exe=Yes
+C:\My Documents\Visual Studio Projects\Contract Control\Readme.txt=Yes
+C:\WINDOWS\SYSTEM\MSADO20.TLB=Yes
+C:\My Documents\Visual Studio Projects\Contract Control\Contract.mdb=Yes
+
+[Package|Contract Control|Configure Registry Files]
+Applicable=No
+
+[Package|Contract Control|Configure Remote Servers]
+Applicable=No
+
+[Package|Contract Control|Install Locations]
+C:\My Documents\Visual Studio Projects\Contract Control\Contract=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\SYSTEM\ADO\MSADO20.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\NSFILE.OCX=$(WinSysPath)
+C:\Program Files\Outlook Express\msoe.dll=$(WinSysPath)
+C:\My Documents\Visual Studio Projects\Contract Control\Help\ContractControl.hlp=$(AppPath)
+C:\WINDOWS\SYSTEM\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\My Documents\Visual Studio Projects\Contract Control\Contract.exe=$(AppPath)
+C:\My Documents\Visual Studio Projects\Contract Control\Readme.txt=$(AppPath)
+C:\WINDOWS\SYSTEM\MSADO20.TLB=$(WinSysPath)
+C:\My Documents\Visual Studio Projects\Contract Control\Contract.mdb=$(AppPath)
+
+[Package|Contract Control|Configure Shared Files]
+Applicable=Yes
+C:\My Documents\Visual Studio Projects\Contract Control\Contract=No
+C:\My Documents\Visual Studio Projects\Contract Control\Help\ContractControl.hlp=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\My Documents\Visual Studio Projects\Contract Control\Contract.exe=No
+C:\My Documents\Visual Studio Projects\Contract Control\Readme.txt=No
+C:\My Documents\Visual Studio Projects\Contract Control\Contract.mdb=No
+
+[Package|Contract Control|Distribution]
+Type=single
+Size=1.44 MB
+Title=Contract Control
+
+[Package|Contract Control|Package]
+PackageFolder=C:\My Documents\Visual Studio Projects\Contract Control\Setup
+ProjectFolder=C:\My Documents\Visual Studio Projects\Contract Control
+ServerSideCab=
+File1=C:\My Documents\Visual Studio Projects\Contract Control\Setup\setup.exe
+File2=C:\My Documents\Visual Studio Projects\Contract Control\Setup\Setup.Lst
+File3=C:\My Documents\Visual Studio Projects\Contract Control\Setup\Contract.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Contract Control|IconGroups]
+Group0=Contract Control
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Contract Control|Contract Control]
+Icon1=Contract
+Title1=Contract Control
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=ContractControl.hlp
+Title2=Contract Control Help
+StartIn2=$(AppPath)
+Key2=Icon3
+Icon3=Readme.txt
+Title3=Read Me
+StartIn3=$(AppPath)
+Key3=Icon4
